@@ -28,3 +28,4 @@ resource "aws_security_group" "global-sg-2021" {
   tags = {
     Name = var.sgname
   }
+}
